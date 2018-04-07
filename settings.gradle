@@ -1,0 +1,1 @@
+include ':ccalljava', ':jnisomodel', ':guolu', ':javacallc', ':mtxx', ':mutillibs', ':ffmpegmodel'
